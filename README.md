@@ -1,5 +1,5 @@
 # Exam #2: "Sandwich"
-## Student: s359282 TAHA ZIED ELGHAZEL
+## Student: TAHA ZIED ELGHAZEL
 
 ## React Client Application Routes
 
